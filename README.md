@@ -19,3 +19,9 @@ Frontend: XML
 
 Firebase
 
+
+You need to add your own Google Map API key before you run this app
+- app/src/main/res/values/google_maps_api.xml
+
+You also need to configure the Firebase in the following root 
+- app/google-services.json
