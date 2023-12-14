@@ -1,0 +1,3 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">"Enter your Google map API key here"</string>
+</resources>
